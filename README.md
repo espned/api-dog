@@ -25,9 +25,12 @@ O layout você tem total liberdade para organizar seus componentes na tela da fo
 O que será avaliado?
 
 *  Composição do código
-Boas práticas;
-Uso de metodologias e padrões;
-Organização/Estrutura do projeto;
+
+   - Boas práticas;
+
+   - Uso de metodologias e padrões;
+
+   - Organização/Estrutura do projeto;
 
 *  Funcionamento das features;
 *  Performance;
